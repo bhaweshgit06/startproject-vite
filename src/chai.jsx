@@ -1,9 +1,9 @@
-function chai(){
+function Chai(){
         return(
             <h1>
-
+            this is tea
             </h1>
         )
 }
 
-export default chai;
+export default Chai;

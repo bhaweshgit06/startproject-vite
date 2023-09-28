@@ -1,10 +1,15 @@
+import Chai from "./chai"
 
 function App() {
-  
+  const name = 'Bhawesh'
 
   return (
-   <h1>Vite Project</h1>
+    
+   <>
+   <Chai/>
+   <h1>chai ready {name}</h1>
+   </>
   )
 }
 
-export default App
+export default App;
